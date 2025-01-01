@@ -49,8 +49,8 @@
   <component name="RunManager">
     <configuration name="GeminiQnaApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <envs>
-        <env name="GEMINI_API_URL" value="https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=" />
-        <env name="GEMINI_API_KEY" value="AIzaSyA7WMYVN4WACsBKa7gyzPpxWT2i0zQ4FII" />
+        <env name="GEMINI_API_URL" value="https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key" />
+        <env name="GEMINI_API_KEY" value="ENTER_VALUE" />
       </envs>
       <option name="MAIN_CLASS_NAME" value="com.ai.gemini_qna.GeminiQnaApplication" />
       <module name="gemini-qna" />
